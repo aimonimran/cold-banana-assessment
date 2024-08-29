@@ -1,0 +1,16 @@
+export const APP_IMAGES = {
+    ellipseTopLeft: '/images/ellipse-top-left.svg',
+    ellipseCenterRight: '/images/ellipse-center-right.svg',
+    ellipseBottomLeft: '/images/ellipse-bottom-left.svg',
+    ellipseCenterTop:'/images/ellipse-top-center.svg',
+    ellipseBottomRight: '/images/ellipse-bottom-right.svg',
+    plant: '/images/plant.svg',
+    ellipsePlantBg: '/images/ellipse-plant-bg.svg',
+    ellipseBottom: '/images/ellipse-bottom.svg',
+    plane: '/images/plane.svg',
+    youtube: '/images/youtube.svg',
+    twitter: '/images/twitter.svg',
+    facebook: '/images/facebook.svg',
+    instagram: '/images/instagram.svg',
+    tiktok: '/images/tiktok.svg',
+}
